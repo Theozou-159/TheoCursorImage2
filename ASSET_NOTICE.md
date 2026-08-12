@@ -2,9 +2,8 @@
 
 Created and packaged by @Neilzou1.
 
-Theo and Diderich character artwork, cursor images, animations, and preview
-assets in this repository are fan-made derivative assets based on third-party
-game characters.
+Character artwork, cursor images, animations, and preview assets in this
+repository are fan-made derivative assets based on third-party game characters.
 
 All rights to the original character and source artwork belong to their
 respective owners. This project is unofficial, non-commercial, and not

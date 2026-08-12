@@ -6,24 +6,28 @@ Created and packaged by **@Neilzou1**.
 
 ## Latest Update
 
-**v1.2.0 brings Paul and Celio to your desktop.**  
-Paul and Celio now have Windows animated cursor packs, each bundled as one
-all-sizes download with `Default`, `1080p`, `2K`, `4K`, `Large105`, and `XL110`
-folders inside.
+**v1.3.0 adds Li Jun to the collection.**
+Li Jun's Default-size Windows pack includes 13 animated cursor states, a
+one-click installer, and the corrected Precision Select hotspot for his
+motorcycle animation.
 
 ## Pointer Preview
 
-| Diderich | Theo | Paul | Celio |
-| --- | --- | --- | --- |
-| ![Diderich pointer preview](packs/diderich/preview/pointer.gif) | ![Theo pointer preview](preview/pointer.gif) | ![Paul pointer preview](packs/paul/preview/pointer.gif) | ![Celio pointer preview](packs/celio/preview/pointer.gif) |
+| Diderich | Theo | Paul | Celio | Li Jun |
+| --- | --- | --- | --- | --- |
+| ![Diderich pointer preview](packs/diderich/preview/pointer.gif) | ![Theo pointer preview](preview/pointer.gif) | ![Paul pointer preview](packs/paul/preview/pointer.gif) | ![Celio pointer preview](packs/celio/preview/pointer.gif) | ![Li Jun pointer preview](packs/lijun/preview/pointer.gif) |
 
 ## Download
 
 Download from the GitHub Releases page, then extract the ZIP before installing.
 
 - Latest release:
+  [Knights College Cursor v1.3.0](https://github.com/Theozou-159/KnightsCollegeCursor/releases/tag/v1.3.0)
+- New in v1.3.0:
+  - `LiJunCursor-v1.0.1-Windows-Default-by-Neilzou1.zip`
+- Existing Paul and Celio downloads:
   [Knights College Cursor v1.2.0](https://github.com/Theozou-159/KnightsCollegeCursor/releases/tag/v1.2.0)
-- New in v1.2.0:
+  includes:
   - `PaulCursor-v1.0.0-Windows-All-Sizes-by-Neilzou1.zip`
   - `CelioCursor-v0.1.0-Windows-All-Sizes-by-Neilzou1.zip`
 - Existing Diderich downloads:
@@ -51,6 +55,9 @@ Paul and Celio all-size ZIPs contain these folders:
 Each size uses its own Windows cursor scheme and install folder, so several
 sizes can be installed and tested side by side.
 
+Li Jun and Theo are provided as ready-to-install Default-size Windows cursor
+packages.
+
 ## Install
 
 1. Download the character ZIP from Releases.
@@ -61,6 +68,7 @@ sizes can be installed and tested side by side.
    - Theo: `Install-Theo-Cursors.bat`
    - Paul: `Install-Paul-Cursors.bat`
    - Celio: `Install-Celio-Cursors.bat`
+   - Li Jun: `Install-LiJun-Cursors.bat`
 5. If Windows Defender SmartScreen appears, choose **More info** -> **Run
    anyway** only if you trust this package.
 
@@ -79,6 +87,7 @@ for example:
 %LOCALAPPDATA%\PaulCursor2K\Cursors
 %LOCALAPPDATA%\CelioCursor\Cursors
 %LOCALAPPDATA%\CelioCursor2K\Cursors
+%LOCALAPPDATA%\LiJunCursor\Cursors
 ```
 
 All installers back up the Windows cursor scheme list before registering a new
@@ -126,6 +135,10 @@ Theo:
 - [Hotspot review sheet](preview/theo-cursor-final-hotspot-review.png)
 - [Dark-mode eye check](preview/theo-cursor-final-dark-mode-eye-check.png)
 
+Li Jun:
+
+- [Transparent Pointer preview](packs/lijun/preview/pointer.gif)
+
 ## Manual Install
 
 If the one-click script does not work:
@@ -156,29 +169,33 @@ artwork/assets as your own.
 ## 中文说明
 
 Knights College Cursor 是一套给 Windows 使用的角色动态鼠标指针包，目前包含
-迪德里奇、西奥、保罗和西里奥四套角色主题。
+迪德里奇、西奥、保罗、西里奥和李军五套角色主题。
 
 制作与打包：**@Neilzou1**。
 
 ### 最新更新
 
-**v1.2.0 新增保罗和西里奥鼠标包。**  
-这次保罗和西里奥各自做成一个 All Sizes ZIP，解压后里面直接有 `Default`、
-`1080p`、`2K`、`4K`、`Large105` 和 `XL110` 几个尺寸文件夹。
+**v1.3.0 新增李军鼠标包。**
+李军的 Windows 默认尺寸包包含 13 种动态指针状态、一键安装脚本，以及已经修正
+操作热点的骑摩托精确选择动画。
 
 ### 指针预览
 
-| 迪德里奇 | 西奥 | Paul | 西里奥 |
-| --- | --- | --- | --- |
-| ![Diderich pointer preview](packs/diderich/preview/pointer.gif) | ![Theo pointer preview](preview/pointer.gif) | ![Paul pointer preview](packs/paul/preview/pointer.gif) | ![Celio pointer preview](packs/celio/preview/pointer.gif) |
+| 迪德里奇 | 西奥 | 保罗 | 西里奥 | 李军 |
+| --- | --- | --- | --- | --- |
+| ![Diderich pointer preview](packs/diderich/preview/pointer.gif) | ![Theo pointer preview](preview/pointer.gif) | ![Paul pointer preview](packs/paul/preview/pointer.gif) | ![Celio pointer preview](packs/celio/preview/pointer.gif) | ![Li Jun pointer preview](packs/lijun/preview/pointer.gif) |
 
 ### 下载
 
 请从 GitHub Releases 下载角色 ZIP，下载后先解压再安装。
 
 - 最新 Release：
+  [Knights College Cursor v1.3.0](https://github.com/Theozou-159/KnightsCollegeCursor/releases/tag/v1.3.0)
+- v1.3.0 新增：
+  - `LiJunCursor-v1.0.1-Windows-Default-by-Neilzou1.zip`
+- 已有保罗和西里奥下载：
   [Knights College Cursor v1.2.0](https://github.com/Theozou-159/KnightsCollegeCursor/releases/tag/v1.2.0)
-- v1.2.0 新增：
+  里包含：
   - `PaulCursor-v1.0.0-Windows-All-Sizes-by-Neilzou1.zip`
   - `CelioCursor-v0.1.0-Windows-All-Sizes-by-Neilzou1.zip`
 - 已有迪德里奇下载：
@@ -205,6 +222,8 @@ Knights College Cursor 是一套给 Windows 使用的角色动态鼠标指针包
 
 每个尺寸都有独立 Windows 鼠标方案名和安装目录，可以同时安装，方便并排试。
 
+李军和西奥提供可以直接安装的 Windows 默认尺寸鼠标包。
+
 ### 安装
 
 1. 从 Releases 下载角色 ZIP。
@@ -215,6 +234,7 @@ Knights College Cursor 是一套给 Windows 使用的角色动态鼠标指针包
    - 西奥：`Install-Theo-Cursors.bat`
    - 保罗：`Install-Paul-Cursors.bat`
    - 西里奥：`Install-Celio-Cursors.bat`
+   - 李军：`Install-LiJun-Cursors.bat`
 5. 如果 Windows Defender SmartScreen 弹出提示，请只在你信任这个包的情况下选择
    **More info** -> **Run anyway**。
 
@@ -259,6 +279,10 @@ Knights College Cursor 是一套给 Windows 使用的角色动态鼠标指针包
 4. 选择对应的鼠标方案。
 
 也可以从 `cursors` 文件夹里手动为每个鼠标状态选择对应文件。
+
+### 李军预览
+
+- [透明 Pointer 待机 GIF](packs/lijun/preview/pointer.gif)
 
 ### 许可与素材说明
 

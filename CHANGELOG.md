@@ -1,5 +1,18 @@
 # Changelog
 
+## v1.3.0 - Li Jun Cursor Pack
+
+- Added the Li Jun Default-size Windows animated cursor pack:
+  `LiJunCursor-v1.0.1-Windows-Default-by-Neilzou1.zip`.
+- Added 13 Li Jun cursor states with one-click install, install-only, restore,
+  and uninstall helpers.
+- Included the corrected Precision Select hotspot at the painted crosshair
+  center for Li Jun's eight-frame motorcycle animation.
+- Added Li Jun's transparent Pointer idle GIF to the project landing page.
+- Sanitized the public release copy so build records contain no local absolute
+  paths or machine-specific metadata.
+- Verified the release ZIP with CRC and extraction checks.
+
 ## v1.2.0 - Paul And Celio Cursor Packs
 
 - Added the Paul Windows animated cursor pack.
