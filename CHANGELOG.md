@@ -1,6 +1,6 @@
 # Changelog
 
-## v1.3.0 - Li Jun Cursor Pack
+## v1.3.0 - Diderich, Theo, And Li Jun Refresh
 
 - Added the Li Jun Default-size Windows animated cursor pack:
   `LiJunCursor-v1.0.1-Windows-Default-by-Neilzou1.zip`.
@@ -9,9 +9,18 @@
 - Included the corrected Precision Select hotspot at the painted crosshair
   center for Li Jun's eight-frame motorcycle animation.
 - Added Li Jun's transparent Pointer idle GIF to the project landing page.
-- Sanitized the public release copy so build records contain no local absolute
-  paths or machine-specific metadata.
-- Verified the release ZIP with CRC and extraction checks.
+- Added Diderich v1.1.6 Default with the accepted paw markers, cleaned
+  Horizontal Resize, stabilized Precision Select and Unavailable animations,
+  and corrected all functional hotspots.
+- Added Theo v2.0.0 Default, rebuilt from approved frame sets with stable
+  character anchors, the R3 dynamic four-way Precision Select marker, and
+  role-specific hotspots.
+- Updated Diderich and Theo transparent Pointer previews on the project landing
+  page.
+- Sanitized all three public release copies so they contain no local absolute
+  paths, personal account data, or machine-specific metadata.
+- Verified every release ZIP with CRC, full extraction, internal checksums, and
+  ANI/CUR binary identity checks.
 
 ## v1.2.0 - Paul And Celio Cursor Packs
 

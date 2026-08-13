@@ -6,10 +6,11 @@ Created and packaged by **@Neilzou1**.
 
 ## Latest Update
 
-**v1.3.0 adds Li Jun to the collection.**
-Li Jun's Default-size Windows pack includes 13 animated cursor states, a
-one-click installer, and the corrected Precision Select hotspot for his
-motorcycle animation.
+**v1.3.0 now includes the latest Diderich, Theo, and Li Jun packs.**
+Diderich v1.1.6 and Theo v2.0.0 bring rebuilt functional markers, stable
+character animation, corrected operation hotspots, and refreshed transparent
+Pointer previews. Li Jun remains included with his corrected motorcycle
+Precision Select hotspot.
 
 ## Pointer Preview
 
@@ -24,6 +25,8 @@ Download from the GitHub Releases page, then extract the ZIP before installing.
 - Latest release:
   [Knights College Cursor v1.3.0](https://github.com/Theozou-159/KnightsCollegeCursor/releases/tag/v1.3.0)
 - New in v1.3.0:
+  - `DiderichCursor-v1.1.6-Windows-Default-FunctionalHotspotFix-by-Neilzou1.zip`
+  - `TheoCursor-v2.0.0-Windows-Default-by-Neilzou1.zip`
   - `LiJunCursor-v1.0.1-Windows-Default-by-Neilzou1.zip`
 - Existing Paul and Celio downloads:
   [Knights College Cursor v1.2.0](https://github.com/Theozou-159/KnightsCollegeCursor/releases/tag/v1.2.0)
@@ -55,8 +58,9 @@ Paul and Celio all-size ZIPs contain these folders:
 Each size uses its own Windows cursor scheme and install folder, so several
 sizes can be installed and tested side by side.
 
-Li Jun and Theo are provided as ready-to-install Default-size Windows cursor
-packages.
+The latest Diderich, Theo, and Li Jun downloads are ready-to-install
+Default-size Windows cursor packages. Diderich's older all-size download stays
+available from v1.2.0 for users who need the legacy size variants.
 
 ## Install
 
@@ -65,7 +69,7 @@ packages.
 3. For Paul or Celio, open the size folder you want.
 4. Double-click the install `.bat` file:
    - Diderich: `Install-Diderich-Cursors.bat`
-   - Theo: `Install-Theo-Cursors.bat`
+   - Theo v2: `Install-TheoCursor-v2-Cursors.bat`
    - Paul: `Install-Paul-Cursors.bat`
    - Celio: `Install-Celio-Cursors.bat`
    - Li Jun: `Install-LiJun-Cursors.bat`
@@ -123,6 +127,7 @@ Each character pack includes:
 
 Diderich:
 
+- [Latest transparent Pointer preview](packs/diderich/preview/pointer.gif)
 - [Final contact sheet](packs/diderich/preview/diderich-cursor-final-contact-sheet.png)
 - [32px review sheet](packs/diderich/preview/diderich-cursor-final-32px-review.png)
 - [Hotspot review sheet](packs/diderich/preview/diderich-cursor-final-hotspot-review.png)
@@ -130,6 +135,7 @@ Diderich:
 
 Theo:
 
+- [Latest transparent Pointer preview](preview/pointer.gif)
 - [Final contact sheet](preview/theo-cursor-final-contact-sheet.png)
 - [32px review sheet](preview/theo-cursor-final-32px-review.png)
 - [Hotspot review sheet](preview/theo-cursor-final-hotspot-review.png)
@@ -175,9 +181,9 @@ Knights College Cursor 是一套给 Windows 使用的角色动态鼠标指针包
 
 ### 最新更新
 
-**v1.3.0 新增李军鼠标包。**
-李军的 Windows 默认尺寸包包含 13 种动态指针状态、一键安装脚本，以及已经修正
-操作热点的骑摩托精确选择动画。
+**v1.3.0 现已加入迪德里奇、西奥和李军的最新鼠标包。**
+迪德里奇 v1.1.6 与西奥 v2.0.0 优化了动态功能标记、角色逐帧稳定性和实际操作
+热点，并更新了透明 Pointer 预览。李军包继续保留已修正热点的骑摩托精确选择动画。
 
 ### 指针预览
 
@@ -192,6 +198,8 @@ Knights College Cursor 是一套给 Windows 使用的角色动态鼠标指针包
 - 最新 Release：
   [Knights College Cursor v1.3.0](https://github.com/Theozou-159/KnightsCollegeCursor/releases/tag/v1.3.0)
 - v1.3.0 新增：
+  - `DiderichCursor-v1.1.6-Windows-Default-FunctionalHotspotFix-by-Neilzou1.zip`
+  - `TheoCursor-v2.0.0-Windows-Default-by-Neilzou1.zip`
   - `LiJunCursor-v1.0.1-Windows-Default-by-Neilzou1.zip`
 - 已有保罗和西里奥下载：
   [Knights College Cursor v1.2.0](https://github.com/Theozou-159/KnightsCollegeCursor/releases/tag/v1.2.0)
@@ -222,7 +230,8 @@ Knights College Cursor 是一套给 Windows 使用的角色动态鼠标指针包
 
 每个尺寸都有独立 Windows 鼠标方案名和安装目录，可以同时安装，方便并排试。
 
-李军和西奥提供可以直接安装的 Windows 默认尺寸鼠标包。
+最新版迪德里奇、西奥和李军都是可以直接安装的 Windows 默认尺寸鼠标包。需要
+旧版迪德里奇多尺寸包的用户，仍可从 v1.2.0 下载旧版 All Sizes ZIP。
 
 ### 安装
 
@@ -231,7 +240,7 @@ Knights College Cursor 是一套给 Windows 使用的角色动态鼠标指针包
 3. 如果是保罗或西里奥，先打开你想用的尺寸文件夹。
 4. 双击安装 `.bat`：
    - 迪德里奇：`Install-Diderich-Cursors.bat`
-   - 西奥：`Install-Theo-Cursors.bat`
+   - 西奥 v2：`Install-TheoCursor-v2-Cursors.bat`
    - 保罗：`Install-Paul-Cursors.bat`
    - 西里奥：`Install-Celio-Cursors.bat`
    - 李军：`Install-LiJun-Cursors.bat`
@@ -280,8 +289,10 @@ Knights College Cursor 是一套给 Windows 使用的角色动态鼠标指针包
 
 也可以从 `cursors` 文件夹里手动为每个鼠标状态选择对应文件。
 
-### 李军预览
+### 最新透明 Pointer 预览
 
+- [迪德里奇](packs/diderich/preview/pointer.gif)
+- [西奥](preview/pointer.gif)
 - [透明 Pointer 待机 GIF](packs/lijun/preview/pointer.gif)
 
 ### 许可与素材说明
