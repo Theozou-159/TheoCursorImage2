@@ -1,5 +1,20 @@
 # Changelog
 
+## v1.4.0 - Argo, Grantly, And Oscar
+
+- Added the Argo v1.0.0, Grantly v0.1.0, and Oscar v0.1.1 Default-size
+  animated Windows cursor packs.
+- Added 13 ANI states, 13 CUR fallbacks, transparent previews, and current-user
+  install, apply, restore, and uninstall helpers for each character.
+- Added Pointer previews for all three characters to the project landing page.
+- Added a contact sheet for the approximately 40-second English Argo, Grantly, and Oscar
+  showcase video.
+- Added the English showcase MP4 as a release download.
+- Sanitized public copies to remove local absolute paths, macOS metadata, and
+  personal account data before packaging.
+- Verified all three ZIPs with CRC, full extraction, file-count checks, and
+  SHA-256 checksums.
+
 ## v1.3.0 - Diderich, Theo, And Li Jun Refresh
 
 - Added the Li Jun Default-size Windows animated cursor pack:

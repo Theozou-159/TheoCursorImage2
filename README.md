@@ -6,13 +6,16 @@ Created and packaged by **@Neilzou1**.
 
 ## Latest Update
 
-**v1.3.0 now includes the latest Diderich, Theo, and Li Jun packs.**
-Diderich v1.1.6 and Theo v2.0.0 bring rebuilt functional markers, stable
-character animation, corrected operation hotspots, and refreshed transparent
-Pointer previews. Li Jun remains included with his corrected motorcycle
-Precision Select hotspot.
+**v1.4.0 adds Argo, Grantly, and Oscar as ready-to-install Windows packs.**
+The release also includes an approximately 40-second English showcase video featuring all
+three characters. Each new ZIP contains 13 animated cursor states, transparent
+previews, and current-user install, apply, restore, and uninstall helpers.
 
 ## Pointer Preview
+
+| Argo | Grantly | Oscar |
+| --- | --- | --- |
+| ![Argo pointer preview](packs/argo/preview/pointer.gif) | ![Grantly pointer preview](packs/grantly/preview/pointer.gif) | ![Oscar pointer preview](packs/oscar/preview/pointer.gif) |
 
 | Diderich | Theo | Paul | Celio | Li Jun |
 | --- | --- | --- | --- | --- |
@@ -23,8 +26,15 @@ Precision Select hotspot.
 Download from the GitHub Releases page, then extract the ZIP before installing.
 
 - Latest release:
+  [Knights College Cursor v1.4.0](https://github.com/Theozou-159/KnightsCollegeCursor/releases/tag/v1.4.0)
+- New in v1.4.0:
+  - `ArgoCursor-v1.0.0-Windows-Default-by-Neilzou1.zip`
+  - `GrantlyCursor-v0.1.0-Windows-by-Neilzou1.zip`
+  - `OscarCursor-v0.1.1-Windows-Default-by-Neilzou1.zip`
+  - `Argo-Grantly-Oscar-Cursor-Showcase-EN-v1.mp4`
+- Previous Diderich, Theo, and Li Jun downloads:
   [Knights College Cursor v1.3.0](https://github.com/Theozou-159/KnightsCollegeCursor/releases/tag/v1.3.0)
-- New in v1.3.0:
+  includes:
   - `DiderichCursor-v1.1.6-Windows-Default-FunctionalHotspotFix-by-Neilzou1.zip`
   - `TheoCursor-v2.0.0-Windows-Default-by-Neilzou1.zip`
   - `LiJunCursor-v1.0.1-Windows-Default-by-Neilzou1.zip`
@@ -58,9 +68,9 @@ Paul and Celio all-size ZIPs contain these folders:
 Each size uses its own Windows cursor scheme and install folder, so several
 sizes can be installed and tested side by side.
 
-The latest Diderich, Theo, and Li Jun downloads are ready-to-install
-Default-size Windows cursor packages. Diderich's older all-size download stays
-available from v1.2.0 for users who need the legacy size variants.
+The Argo, Grantly, and Oscar downloads are ready-to-install Default-size Windows
+cursor packages. Diderich's older all-size download stays available from v1.2.0
+for users who need the legacy size variants.
 
 ## Install
 
@@ -73,6 +83,9 @@ available from v1.2.0 for users who need the legacy size variants.
    - Paul: `Install-Paul-Cursors.bat`
    - Celio: `Install-Celio-Cursors.bat`
    - Li Jun: `Install-LiJun-Cursors.bat`
+   - Argo: `Install-Argo-Cursors.bat`
+   - Grantly: `Install-Grantly-Cursors.bat`
+   - Oscar: `Install-Oscar-Cursors.bat`
 5. If Windows Defender SmartScreen appears, choose **More info** -> **Run
    anyway** only if you trust this package.
 
@@ -92,6 +105,9 @@ for example:
 %LOCALAPPDATA%\CelioCursor\Cursors
 %LOCALAPPDATA%\CelioCursor2K\Cursors
 %LOCALAPPDATA%\LiJunCursor\Cursors
+%LOCALAPPDATA%\ArgoCursor\Cursors
+%LOCALAPPDATA%\GrantlyCursor\Cursors
+%LOCALAPPDATA%\OscarCursor\Cursors
 ```
 
 All installers back up the Windows cursor scheme list before registering a new
@@ -145,6 +161,13 @@ Li Jun:
 
 - [Transparent Pointer preview](packs/lijun/preview/pointer.gif)
 
+Argo, Grantly, and Oscar:
+
+- [Argo Pointer preview](packs/argo/preview/pointer.gif)
+- [Grantly Pointer preview](packs/grantly/preview/pointer.gif)
+- [Oscar Pointer preview](packs/oscar/preview/pointer.gif)
+- [English showcase contact sheet](showcase/argo-grantly-oscar-en-v1-contact-sheet.png)
+
 ## Manual Install
 
 If the one-click script does not work:
@@ -175,17 +198,21 @@ artwork/assets as your own.
 ## 中文说明
 
 Knights College Cursor 是一套给 Windows 使用的角色动态鼠标指针包，目前包含
-迪德里奇、西奥、保罗、西里奥和李军五套角色主题。
+迪德里奇、西奥、保罗、西里奥、李军、亚戈、格兰特利和奥斯卡八套角色主题。
 
 制作与打包：**@Neilzou1**。
 
 ### 最新更新
 
-**v1.3.0 现已加入迪德里奇、西奥和李军的最新鼠标包。**
-迪德里奇 v1.1.6 与西奥 v2.0.0 优化了动态功能标记、角色逐帧稳定性和实际操作
-热点，并更新了透明 Pointer 预览。李军包继续保留已修正热点的骑摩托精确选择动画。
+**v1.4.0 新增亚戈、格兰特利和奥斯卡三套可直接安装的 Windows 鼠标包。**
+本次 Release 同时提供三人同场、约 40 秒的英文展示视频。每个新 ZIP 都包含 13 个动态
+鼠标状态、透明预览，以及安装、立即应用、恢复和卸载辅助脚本。
 
 ### 指针预览
+
+| 亚戈 | 格兰特利 | 奥斯卡 |
+| --- | --- | --- |
+| ![Argo pointer preview](packs/argo/preview/pointer.gif) | ![Grantly pointer preview](packs/grantly/preview/pointer.gif) | ![Oscar pointer preview](packs/oscar/preview/pointer.gif) |
 
 | 迪德里奇 | 西奥 | 保罗 | 西里奥 | 李军 |
 | --- | --- | --- | --- | --- |
@@ -196,8 +223,15 @@ Knights College Cursor 是一套给 Windows 使用的角色动态鼠标指针包
 请从 GitHub Releases 下载角色 ZIP，下载后先解压再安装。
 
 - 最新 Release：
+  [Knights College Cursor v1.4.0](https://github.com/Theozou-159/KnightsCollegeCursor/releases/tag/v1.4.0)
+- v1.4.0 新增：
+  - `ArgoCursor-v1.0.0-Windows-Default-by-Neilzou1.zip`
+  - `GrantlyCursor-v0.1.0-Windows-by-Neilzou1.zip`
+  - `OscarCursor-v0.1.1-Windows-Default-by-Neilzou1.zip`
+  - `Argo-Grantly-Oscar-Cursor-Showcase-EN-v1.mp4`
+- 之前的迪德里奇、西奥和李军下载：
   [Knights College Cursor v1.3.0](https://github.com/Theozou-159/KnightsCollegeCursor/releases/tag/v1.3.0)
-- v1.3.0 新增：
+  里包含：
   - `DiderichCursor-v1.1.6-Windows-Default-FunctionalHotspotFix-by-Neilzou1.zip`
   - `TheoCursor-v2.0.0-Windows-Default-by-Neilzou1.zip`
   - `LiJunCursor-v1.0.1-Windows-Default-by-Neilzou1.zip`
@@ -230,8 +264,8 @@ Knights College Cursor 是一套给 Windows 使用的角色动态鼠标指针包
 
 每个尺寸都有独立 Windows 鼠标方案名和安装目录，可以同时安装，方便并排试。
 
-最新版迪德里奇、西奥和李军都是可以直接安装的 Windows 默认尺寸鼠标包。需要
-旧版迪德里奇多尺寸包的用户，仍可从 v1.2.0 下载旧版 All Sizes ZIP。
+亚戈、格兰特利和奥斯卡都是可以直接安装的 Windows 默认尺寸鼠标包。需要旧版
+迪德里奇多尺寸包的用户，仍可从 v1.2.0 下载旧版 All Sizes ZIP。
 
 ### 安装
 
@@ -244,6 +278,9 @@ Knights College Cursor 是一套给 Windows 使用的角色动态鼠标指针包
    - 保罗：`Install-Paul-Cursors.bat`
    - 西里奥：`Install-Celio-Cursors.bat`
    - 李军：`Install-LiJun-Cursors.bat`
+   - 亚戈：`Install-Argo-Cursors.bat`
+   - 格兰特利：`Install-Grantly-Cursors.bat`
+   - 奥斯卡：`Install-Oscar-Cursors.bat`
 5. 如果 Windows Defender SmartScreen 弹出提示，请只在你信任这个包的情况下选择
    **More info** -> **Run anyway**。
 
@@ -293,7 +330,11 @@ Knights College Cursor 是一套给 Windows 使用的角色动态鼠标指针包
 
 - [迪德里奇](packs/diderich/preview/pointer.gif)
 - [西奥](preview/pointer.gif)
-- [透明 Pointer 待机 GIF](packs/lijun/preview/pointer.gif)
+- [李军](packs/lijun/preview/pointer.gif)
+- [亚戈](packs/argo/preview/pointer.gif)
+- [格兰特利](packs/grantly/preview/pointer.gif)
+- [奥斯卡](packs/oscar/preview/pointer.gif)
+- [三人英文展示视频分镜表](showcase/argo-grantly-oscar-en-v1-contact-sheet.png)
 
 ### 许可与素材说明
 
