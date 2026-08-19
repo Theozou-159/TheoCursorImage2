@@ -8,9 +8,8 @@ Created and packaged by **@Neilzou1**.
 ## Latest Update
 
 **v1.4.0 adds Argo, Grantly, and Oscar as ready-to-install Windows packs.**
-The release also includes an approximately 40-second English showcase video featuring all
-three characters. Each new ZIP contains 13 animated cursor states, transparent
-previews, and current-user install, apply, restore, and uninstall helpers.
+Each new ZIP contains 13 animated cursor states, transparent previews, and
+current-user install, apply, restore, and uninstall helpers.
 
 ## Pointer Preview
 
@@ -32,7 +31,6 @@ Download from the GitHub Releases page, then extract the ZIP before installing.
   - `ArgoCursor-v1.0.0-Windows-Default-by-Neilzou1.zip`
   - `GrantlyCursor-v0.1.0-Windows-by-Neilzou1.zip`
   - `OscarCursor-v0.1.1-Windows-Default-by-Neilzou1.zip`
-  - `Argo-Grantly-Oscar-Cursor-Showcase-EN-v1.mp4`
 - Previous Diderich, Theo, and Li Jun downloads:
   [Knights College Cursor v1.3.0](https://github.com/Theozou-159/KnightsCollegeCursor/releases/tag/v1.3.0)
   includes:
@@ -188,7 +186,6 @@ Argo, Grantly, and Oscar:
 - [Argo Pointer preview](packs/argo/preview/pointer.gif)
 - [Grantly Pointer preview](packs/grantly/preview/pointer.gif)
 - [Oscar Pointer preview](packs/oscar/preview/pointer.gif)
-- [English showcase contact sheet](showcase/argo-grantly-oscar-en-v1-contact-sheet.png)
 
 ## Manual Install
 
@@ -228,8 +225,8 @@ macOS 用户可以通过 MaCursor 转换同一套 `.cur` 和 `.ani` 文件。
 ### 最新更新
 
 **v1.4.0 新增亚戈、格兰特利和奥斯卡三套可直接安装的 Windows 鼠标包。**
-本次 Release 同时提供三人同场、约 40 秒的英文展示视频。每个新 ZIP 都包含 13 个动态
-鼠标状态、透明预览，以及安装、立即应用、恢复和卸载辅助脚本。
+每个新 ZIP 都包含 13 个动态鼠标状态、透明预览，以及安装、立即应用、恢复和卸载
+辅助脚本。
 
 ### 指针预览
 
@@ -251,7 +248,6 @@ macOS 用户可以通过 MaCursor 转换同一套 `.cur` 和 `.ani` 文件。
   - `ArgoCursor-v1.0.0-Windows-Default-by-Neilzou1.zip`
   - `GrantlyCursor-v0.1.0-Windows-by-Neilzou1.zip`
   - `OscarCursor-v0.1.1-Windows-Default-by-Neilzou1.zip`
-  - `Argo-Grantly-Oscar-Cursor-Showcase-EN-v1.mp4`
 - 之前的迪德里奇、西奥和李军下载：
   [Knights College Cursor v1.3.0](https://github.com/Theozou-159/KnightsCollegeCursor/releases/tag/v1.3.0)
   里包含：
@@ -375,7 +371,6 @@ macOS 15 Sequoia 或更新版本可以使用第三方应用
 - [亚戈](packs/argo/preview/pointer.gif)
 - [格兰特利](packs/grantly/preview/pointer.gif)
 - [奥斯卡](packs/oscar/preview/pointer.gif)
-- [三人英文展示视频分镜表](showcase/argo-grantly-oscar-en-v1-contact-sheet.png)
 
 ### 许可与素材说明
 
