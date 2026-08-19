@@ -1,6 +1,7 @@
 # Knights College Cursor
 
-Animated Windows cursor packs for Knights College characters.
+Animated cursor packs for Knights College characters. Windows installers are
+included; macOS users can convert the same packages with MaCursor.
 
 Created and packaged by **@Neilzou1**.
 
@@ -121,6 +122,27 @@ If a test install ever leaves the Windows scheme list in a bad state, run
 `Restore-Cursor-Scheme-Backup.bat` from the character package to restore the
 latest saved scheme list.
 
+## macOS With MaCursor
+
+The downloads use Windows `.cur` and `.ani` files. On macOS 15 Sequoia or
+later, [MaCursor](https://github.com/writronic/MaCursor) can convert them into
+a native macOS cursor theme:
+
+1. Install the latest MaCursor `.dmg` from its Releases page.
+2. Download and fully extract the Argo, Grantly, or Oscar ZIP from this
+   project's Releases page.
+3. In MaCursor, choose **File -> Convert Theme...** (`Shift-Command-O`) and
+   select the extracted character folder containing the `.inf` file and
+   `cursors` folder.
+4. Review **Mapped** and **Warnings & ignored**. Choose **Add & Edit...** if
+   you want to check the cursor mapping, animation, or hotspots first.
+5. Click **Add to Library**, select the imported theme, and click **Apply**.
+6. Optional: open **MaCursor -> Settings -> General** and install the
+   **Helper Tool** so the theme is reapplied after login or a user switch.
+
+Use MaCursor's **Restore** button to return to the default macOS cursors.
+MaCursor is a third-party application and is not bundled with this project.
+
 ## Included Cursor States
 
 Each character pack includes:
@@ -197,8 +219,9 @@ artwork/assets as your own.
 
 ## 中文说明
 
-Knights College Cursor 是一套给 Windows 使用的角色动态鼠标指针包，目前包含
-迪德里奇、西奥、保罗、西里奥、李军、亚戈、格兰特利和奥斯卡八套角色主题。
+Knights College Cursor 是一套角色动态鼠标指针包，目前包含迪德里奇、西奥、保罗、
+西里奥、李军、亚戈、格兰特利和奥斯卡八套角色主题。压缩包内含 Windows 安装器；
+macOS 用户可以通过 MaCursor 转换同一套 `.cur` 和 `.ani` 文件。
 
 制作与打包：**@Neilzou1**。
 
@@ -296,6 +319,24 @@ Knights College Cursor 是一套给 Windows 使用的角色动态鼠标指针包
 
 如果测试安装后 Windows 的方案列表异常，可以运行对应角色包里的
 `Restore-Cursor-Scheme-Backup.bat`，恢复最近一次保存的方案列表。
+
+### 在 macOS 上使用 MaCursor
+
+macOS 15 Sequoia 或更新版本可以使用第三方应用
+[MaCursor](https://github.com/writronic/MaCursor) 转换这些 Windows 鼠标文件：
+
+1. 从 MaCursor 的 Releases 页面下载最新版 `.dmg` 并安装。
+2. 从本项目 Releases 页面下载亚戈、格兰特利或奥斯卡 ZIP，并完整解压。
+3. 在 MaCursor 中选择 **File -> Convert Theme...**（`Shift-Command-O`），
+   选择解压后的角色文件夹；该文件夹中应有 `.inf` 文件和 `cursors` 文件夹。
+4. 检查 **Mapped** 和 **Warnings & ignored**。如需先核对映射、动画或热点，选择
+   **Add & Edit...**。
+5. 点击 **Add to Library**，选中导入的主题，再点击 **Apply**。
+6. 可选：打开 **MaCursor -> Settings -> General**，安装 **Helper Tool**，让主题在
+   登录或切换用户后自动重新应用。
+
+如需恢复系统鼠标，点击 MaCursor 工具栏中的 **Restore**。MaCursor 是第三方应用，
+不包含在本项目下载包内。
 
 ### 包含的鼠标状态
 
